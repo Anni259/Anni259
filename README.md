@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Anni259
-- 👀 I’m interested in coding html, css and JavaScript
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: Here at github...
+- 🌟 Aspiring Frontend Developer with a background in education
+- 👀 What I'm into: Crafting clean, responsive websites with HTML, CSS, and JavaScript.
+- 🌱 Currently deepening my JavaScript knowledge
+- 📫 Drop me a message right here on GitHub or connect with me on LinkedIn (https://www.linkedin.com/in/anica-gillen/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: As a former elementary school teacher, my coffee mugs are now adorned with algorithms and code structures instead of apples and letters.
+- ⚡ Fun fact: Former elementary school teacher turned coder – my love for learning just got a digital upgrade!
 
 <!---
 Anni259/Anni259 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
